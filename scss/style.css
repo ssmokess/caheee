@@ -106,4 +106,37 @@
 .nav__items a:hover {
   border-top: 3px solid #ff6033;
 }
+
+.about {
+  background-color: #00b1b1;
+}
+
+.grid {
+  width: 1170px;
+  margin: 0 auto;
+}
+
+img {
+  margin-bottom: 20px;
+  max-width: 100%;
+}
+
+.box-about-us {
+  width: 500px;
+  color: #fff;
+}
+
+.box-about-us h2 {
+  font-size: 96px;
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  margin-bottom: 35px;
+}
+
+.box-about-us p {
+  font-size: 17px;
+  font-family: "Raleway", sans-serif;
+  font-weight: 300;
+  line-height: 27px;
+}
 /*# sourceMappingURL=style.css.map */

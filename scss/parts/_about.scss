@@ -1,4 +1,7 @@
 //About
+.about{
+    background-color: $color-green;
+}
 .grid {
     width: 1170px;
     margin: 0 auto;
@@ -7,4 +10,30 @@
 img {
     margin-bottom: 20px;
     max-width: 100%;
-    width: 100%;
+    // width: 100%;
+}
+.box-about-us {
+    width: 500px;
+    color:$color-white;
+
+    h2{
+        font-size: 96px;
+        font-family: $font-Raleway;
+        font-weight: 700;
+        margin-bottom: 35px;
+    
+    }
+    p{
+        font-size: 17px;
+        font-family: $font-Raleway;
+        font-weight: 300;
+        line-height: 27px;
+    }
+ 
+}
+// .box-about-us h2{
+//     font-size: 96px;
+//     font-family: $font-Raleway;
+//     font-weight: 700;
+
+// }
