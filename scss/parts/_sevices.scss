@@ -1,0 +1,18 @@
+//Services
+
+.our-services{
+    position: relative;
+    padding: 100px 0;
+    min-height: 100vh;
+    background-color: $color-blue;
+    background-size: cover;
+}
+.our-services-title{
+    position: absolute;
+    left: 50%;
+    bottom:50%;
+    font-family: $font-Raleway;
+    font-size: 90px;
+    font-weight: 700;
+    color: $color-white;
+}
